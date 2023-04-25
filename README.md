@@ -10,6 +10,7 @@ Run this file after the first time for the graph to initiate.
 The graph will update automatically.
 
 ###Important Packages
+
 pandas:  
 `pip install pandas`
 
